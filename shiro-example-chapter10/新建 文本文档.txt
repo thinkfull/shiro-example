@@ -1,3 +1,6 @@
 가가가가가가가가가가가가가가가
 D:\githup\test
 D:\githup\test\shiro-example-chapter10
+https://github.com/zhangkaitao/shiro-example.git
+D:\github\repository\shiro-example-chapter10
+
